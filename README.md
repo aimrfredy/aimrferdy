@@ -16,8 +16,11 @@ Fokus utama kami adalah menghadirkan solusi AI yang mudah diakses, praktis, dan 
 ## Official Links
 
 🌐 Website: https://www.aimrferdy.com
+
 📷 Instagram: https://www.instagram.com/aimrferdyofficial
+
 ▶️ YouTube: https://www.youtube.com/@ai-mr-ferdy
+
 ✍️ Medium: https://medium.com/@aimrferdy
 
 ## Tech Stack
